@@ -1,0 +1,30 @@
+.ng_m_g{
+    border-radius: 25px;
+    padding: 6px 15px;
+    background-color: rgb(233, 232, 232);;
+    // background-image: linear-gradient(
+    //     rgba(0, 0, 0, 0.1),
+    //     rgba(0, 0, 0, 0.1)
+    //   ),url(../../../../assets/images/sun-tornado.svg);
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+}
+.color_white{
+    color: rgb(49, 49, 49);
+}
+.csider_g {
+  background-image: linear-gradient(
+      rgba(0, 117, 196, 0.99),
+      rgba(0, 117, 196, 0.70)
+  ), url(../../../../assets/images/sun-tornado.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  border-radius: 10px;
+  margin: 7px 10px;
+  margin-left: 4px !important;
+  background-color: transparent !important;
+}
+
